@@ -1,2 +1,7 @@
 com/DrinkShop.java
  com.DrinkShop
+ com.DrinkShop$1
+ com.DrinkShop$2
+ com.DrinkShop$3
+ com.DrinkShop$4
+ com.DrinkShop$5
